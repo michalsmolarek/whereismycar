@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:injectable/injectable.dart';
+import 'package:whereismycar/app/theme/app_colors.dart';
 import 'package:whereismycar/app/theme/styles/styles.dart';
-
-import 'app_colors.dart';
 
 @injectable
 class ThemeManager {

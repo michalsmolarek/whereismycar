@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
 
-import 'failure.dart';
+import 'package:whereismycar/domain/utils/failure.dart';
 
 ///
 /// The abstract UseCase to be implemented by use cases that return [Either].

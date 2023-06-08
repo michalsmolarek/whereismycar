@@ -1,6 +1,6 @@
 import 'package:freezed_annotation/freezed_annotation.dart';
 
-import 'success_messages.dart';
+import 'package:whereismycar/domain/utils/success_messages.dart';
 
 part 'success.freezed.dart';
 
